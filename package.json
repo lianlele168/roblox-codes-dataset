@@ -1,0 +1,25 @@
+{
+  "name": "roblox-codes-dataset",
+  "version": "1.0.0",
+  "description": "527 verified Roblox game redeem codes across 19 games - multi-source checked, openly licensed (CC BY 4.0)",
+  "main": "index.json",
+  "files": [
+    "data/",
+    "index.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "roblox",
+    "codes",
+    "game-data",
+    "dataset",
+    "gaming"
+  ],
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianlele168/roblox-codes-dataset.git"
+  },
+  "homepage": "https://github.com/lianlele168/roblox-codes-dataset#readme"
+}
