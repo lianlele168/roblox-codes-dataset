@@ -1,0 +1,420 @@
+{
+  "game": "Blade Ball",
+  "site": "https://bladeball.robloxwikihub.com",
+  "updated": "2026-09-19",
+  "codes": [
+    {
+      "code": "SERPENT",
+      "reward": "3x Serpent Katanas",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "RAMADAN",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SPOOKYSEASON",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "4BVISITS",
+      "reward": "Bubble Wand Sword Skin (private servers only)",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SHARKATTACK",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SUMMERWHEEL",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SUMMERSTARTSHERE",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ENERGYSWORDS",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "GIVEMELUCK",
+      "reward": "4x Luck Boost in AFK World for 10 minutes",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DUNGEONSRELEASE",
+      "reward": "50 Dungeon Runes",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FROGS",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "GOODVSEVIL",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "BATTLEROYALE",
+      "reward": "Free reward — listed as a wheel spin by some guides and a Storm Ticket by others",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "RNGEMOTES",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FREESPINS",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "2BTHANKS",
+      "reward": "1x Free Wheel Spin",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "REBIRTHLTM",
+      "reward": "Rebirth FFA Ticket",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DRAGONS",
+      "reward": "Dragon Ticket",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ROBLOXCLASSIC",
+      "reward": "Hacker Ticket",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "5BVISITS",
+      "reward": "SPARKLERR Sword Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DELAYBALL",
+      "reward": "Midas Thorn Sword Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "XMAS",
+      "reward": "3x Reindeer Spins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FIXEDSPINS",
+      "reward": "1x New Year Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HAPPYNEWYEAR",
+      "reward": "2x New Year Spins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "MERRYXMAS",
+      "reward": "150 Cookies",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LIVEEVENTS",
+      "reward": "Infinity for 30 minutes",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LUNARNEWYEAR",
+      "reward": "New Year Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ELEMENTSPIN",
+      "reward": "1x Free Element Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "GOODVSEVILMODE",
+      "reward": "Free Crate — listed as a VIP Ticket by some guides",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "BPTEAMS",
+      "reward": "100 Shells",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TOURNAMENTSW",
+      "reward": "Tournament Ticket",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FALLINGLTM",
+      "reward": "Sky Ticket",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "GALAXYSEASON",
+      "reward": "150 Stellar Stars",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ZEROGRAVITY",
+      "reward": "Zero Gravity Ticket",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LAVAFLOOR",
+      "reward": "Lava Ticket",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SENTINELSREVENGE",
+      "reward": "Free Dragon Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "WINTERSPIN",
+      "reward": "Free Winter Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "EASTERHYPE",
+      "reward": "1x Free Wheel Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FREEHOURLY",
+      "reward": "Free Sci-Fi Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "1.5BTHANKS",
+      "reward": "Ball on Stick Sword Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "UPDATE.DAY",
+      "reward": "Special Sword Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "UPD250COINS",
+      "reward": "250 Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SERPENT_HYPE",
+      "reward": "Special Sword Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "VISITS_TY",
+      "reward": "1x Free Wheel Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HAPPYHALLOWEEN",
+      "reward": "1x Free Wheel Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "1BVISITSTHANKS",
+      "reward": "Special Sword Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "3MLIKES",
+      "reward": "1x Free Wheel Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HALLOWEEN",
+      "reward": "Special Sword Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "WEEK4",
+      "reward": "Special Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "RRRANKEDDD",
+      "reward": "200 Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SORRY4DELAY",
+      "reward": "160 Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "UPDATETHREE",
+      "reward": "1x Free Wheel Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "1MLIKES",
+      "reward": "200 Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HOTDOG10K",
+      "reward": "Special Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FORTUNE",
+      "reward": "1x Free Wheel Spin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "10KFOLLOWERZ",
+      "reward": "Special Skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "500K",
+      "reward": "50 Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "200KLIKES",
+      "reward": "200 Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "THXFORUPPORT",
+      "reward": "Coins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    }
+  ]
+}

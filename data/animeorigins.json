@@ -1,0 +1,49 @@
+{
+  "game": "Anime Origins",
+  "site": "https://animeorigins.robloxwikihub.com",
+  "updated": "2026-09-19",
+  "codes": [
+    {
+      "code": "100K!",
+      "reward": "25 Trait Rerolls, 1,000 Gems, 10 Perfect Stat Prisms, 10 Stat Prisms",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HappyPatch!",
+      "reward": "25 Trait Rerolls, 1,000 Gems, 10 Perfect Stat Prisms, 10 Stat Prisms (some outlets list smaller values — test in game)",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ChallengesFixed",
+      "reward": "10 Trait Rerolls, 750 Gems, 10 Azure Remnant, 5 Violet Remnant, 2 Radiant Remnant, 1 Prismatic Remnant",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "GAMESPEED",
+      "reward": "10 Trait Rerolls and 10 Perfect Stat Prisms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TYKaito!",
+      "reward": "25 Trait Rerolls, 5 Stat Prisms, 1,000 Gems",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "THANKYOU!",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    }
+  ]
+}

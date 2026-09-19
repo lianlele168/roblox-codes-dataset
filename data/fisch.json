@@ -1,0 +1,966 @@
+{
+  "game": "Fisch",
+  "site": "https://fisch.robloxwikihub.com",
+  "updated": "2026-09-19",
+  "codes": [
+    {
+      "code": "SCARLET",
+      "reward": "Scarlet skin for Nate",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TemporarySubmarine",
+      "reward": "Submarine parts crate — Back Fins, Metal Panels, Side Fins, Submarine Top & Windows",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "CARBON",
+      "reward": "Carbon bobber",
+      "status": "active",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SkycrestIsInTheSky",
+      "reward": "1,000 C$ + Banana boat + 5x Icy Fisch",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LittleBudlingUpdate",
+      "reward": "1,000 C$ + Walrus boat + 5x Icy Fisch",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SkycrestNextWeek",
+      "reward": "1,000 C$ + Little Sei Whale boat + 5x Icy Fisch",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ShootingStars",
+      "reward": "1,000 C$ + XL Meteoric Rod + bait bundle + 1x Random Hunt Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "CollectMyPufferfish",
+      "reward": "1,000 C$ + Giant Jetski + bait bundle + 1x Random Hunt Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TheDeepIsVeryDeep",
+      "reward": "1,000 C$ + Cleaned Scrap-Bot + bait bundle + 1x Random Hunt Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HarpoonGunsAreAwesome",
+      "reward": "1,000 C$ + Chaotic Crasher + bait bundle + 1x Random Hunt Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HarpoonGunsNextWeek",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SorryForShopShenanigans",
+      "reward": "150 C$ + Rainbow Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "RoamingFishAndWaterPark",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "OllieAndFinWhale",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DrylandsIsFire",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "KingCrabstle",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Fischfest2026",
+      "reward": "Fischfest 2026 event bundle",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "AquariumCustomization",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TheDeepAwaitsForYou",
+      "reward": "Expired — The Deep update code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "NewIslandSoon",
+      "reward": "1,000 C$ + Pitchfork skin + 5x Starlight Worm + 1x Random Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "EverturnForest",
+      "reward": "Driftwood Rod Skin + 1,000 C$ + 5x Starlight Worm + 1x Random Hunt Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "JungleExpansionSOON",
+      "reward": "Seraphic Rod skin + 5x Thorn Cluster bait + 1x Random Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "JungleExpansion",
+      "reward": "500 C$ + 5x Thorn Cluster + 1x Random item",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LOSTJUNGLE",
+      "reward": "Expired — Lost Jungle event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LOSTJUNGLESOON",
+      "reward": "Expired — Lost Jungle teaser code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Brinestorm",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Tidefall",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Astraeus",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TradePlazaRevamp",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TradeRevampSoon",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Shady",
+      "reward": "1,000 Coins + Neongrinder skin + Chainsaw skin + 5x Golden Tentacles + 20x Shady Scrip + 1x Random Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ShadySorry",
+      "reward": "100 Coins + Shadyreaper",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HumpbackAndMegamouth",
+      "reward": "1,000 Coins + 5x Golden Tentacles + 1x Random Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Sovereign",
+      "reward": "1,000 Coins + Shiny Flopping Salmon companion + 5x Golden Tentacles",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "VenueTakeover",
+      "reward": "1,000 Coins + Giant Driftwood + 5x Golden Tentacles",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Companions",
+      "reward": "1,000 Cash + Hades",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "MermaidCove",
+      "reward": "1,000 Cash + Violet Dusk + Fisch Coin + Golden Tentacles",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Crews",
+      "reward": "Expired — Crews update code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LivyatanAndCompanions",
+      "reward": "Expired — Livyatan companion update code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "nickandsnothegoat",
+      "reward": "43,110 Cash + Bassanjo + 20x Fish Heads + 20x Minnows + 20x Shark Heads",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "YESIMBEINGFRTHISISTHEMAKHCODE",
+      "reward": "Magical Leak",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SLOPSKINSFORMIGUROD",
+      "reward": "Expired — rod skin bundle",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "WRATHOFOLYMPUS",
+      "reward": "Expired — Wrath of Olympus event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FischIsTheBest",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "049andNickneedatan",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "NickNate049492SnoStage105",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ECLIPSEBLADE",
+      "reward": "Blade of the Eclipse skin for the Fang of the Eclipse rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FORAREASON",
+      "reward": "Red Blade of the Glorp skin for the Blade of Glorp rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "isitreallyyou?",
+      "reward": "Bloodwing skin for the Wingripper rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "MerlinMystery",
+      "reward": "Garnetbreaker skin for the Dreambreaker rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "MerryMerlin",
+      "reward": "Expired — Merlin event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "CultistLair",
+      "reward": "Golden Staff skin for the Great Dreamer rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "BigUpdateSoon",
+      "reward": "Minty Fab skin for the Fabulous rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DEVSLOPSKINS",
+      "reward": "Domodrum + Meowing Melody + Illumina + Tideglass + Last Dance skins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "CAVERN",
+      "reward": "Expired — Cavern update skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SNOWBURROW",
+      "reward": "Expired — Snowburrow update skins",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TheDepths",
+      "reward": "Weird Algae + Truffle Worms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Prehistoric",
+      "reward": "Cash + Weird Algae + Truffle Worms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "AncientIsle",
+      "reward": "Cash + Weird Algae + Truffle Worms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SUPPORTERDESTINY",
+      "reward": "Destiny Rod skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "METEOR",
+      "reward": "Expired — Meteor event skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SECONDARYENCHANT",
+      "reward": "Starfall Totem + Boat",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "PERSONALAQUARIUMS",
+      "reward": "Boat",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "thisisaveryevilcode",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "wowyoufigureditout",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "UNGUESSABLECODE",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "TESTCONST",
+      "reward": "Expired — developer test string",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "PUBLICTEST2",
+      "reward": "Expired — public test build string",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "MERRYFISCHMAS",
+      "reward": "Holly Berry + Peppermint Worm",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "MerryFischmas2",
+      "reward": "25x Fruitcake Flakes + 25x Cookie Crumble + 15x Frostnova Bait",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FISCHMASDAY",
+      "reward": "$1,000 + 2x Holly Berries + 2x Peppermint Worms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "GOODBYEFISCHMAS",
+      "reward": "$3,000 + 1x Aurora",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FischmasSoon",
+      "reward": "Lime Silly Time skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "NewYear",
+      "reward": "$1,000 + 2x Holly Berries + 2x Peppermint Worms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "NewYears",
+      "reward": "Expired — New Year event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "LunarNewYear",
+      "reward": "Expired — Lunar New Year event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "NorthernExpedition",
+      "reward": "$1,000 + 2x Holly Berries + 3x Peppermint Worms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "BorealPines",
+      "reward": "Expired — Boreal Pines winter event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Advent",
+      "reward": "Cash + Weird Algae + Truffle Worms",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ALIENS",
+      "reward": "Snowy Christmas Skin for the Christmas Tree rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ValentinesDay",
+      "reward": "Cupid",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Valentides",
+      "reward": "Onirifalx skin + Chocolates",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ValentinesSoon",
+      "reward": "3 Skins + Dripstone Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ValentinesOver",
+      "reward": "Expired — Valentine event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ROSES",
+      "reward": "2x Titles + Bobber",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Easter2026",
+      "reward": "Easter event code (expired )",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "StPatricks",
+      "reward": "St Patrick",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SeventhOfMarch!",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "4THOFJULY",
+      "reward": "Patriot Rod + Title + Shiny and Sparkling Totems",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HAPPY4TH",
+      "reward": "Expired — Fourth of July event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Fischgiving",
+      "reward": "Roasted Turkey Boat + 10x Unsellable Bountiful Bait Crate",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ThanksgivingSoon",
+      "reward": "Expired — Thanksgiving teaser code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FischFright2024",
+      "reward": "Candy Corn Bobber + Plastic Rod + Carbon Rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FischFright2025",
+      "reward": "Mimic Spellbook Bobber + Pumpkin Candy Basket Lantern",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FischFrightPart2",
+      "reward": "Expired — FischFright Part 2 event skin",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FISCHFRIGHTSOON",
+      "reward": "Expired — Halloween teaser code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FISCHFRIGHTNOW",
+      "reward": "Expired — Halloween event code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FISCHFEST",
+      "reward": "Expired — Fischfest event bundle",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FISCHANNIVERSARY",
+      "reward": "Anniversary cake item",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "JOUNCE",
+      "reward": "Team-choice code (expired — JOUNCE or BIGGLE, pick one)",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "BIGGLE",
+      "reward": "Team-choice code (expired — JOUNCE or BIGGLE, pick one)",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "BLOOPWHISTLE2",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "BRICK",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "CHUD",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DREADFIN",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FOLK",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "EVENTFIXED",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "RRG",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "RFG",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SORRY",
+      "reward": "Skins + Rods",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SorryReward",
+      "reward": "5x Golden Tentacles + C$1,500",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SORRYGUYS",
+      "reward": "2x Kraken Tentacle baits + C$1,000",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SorryForDowntime",
+      "reward": "10x Instant Catchers + 10x Fish Heads",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "SorryforShutdown",
+      "reward": "15x Volcanic Geodes",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Sorry4Delay",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ChangesComing",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Legomy",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ThankYou",
+      "reward": "Boat + Totem",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ThankYouFollowers",
+      "reward": "2,000 Cash",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ThankYouFollowers2",
+      "reward": "Astral Rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ThankYouFollowers3",
+      "reward": "Event Horizon Rod",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ThankYouFollwers",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ThanksFor10Mil",
+      "reward": "10Mil Title + 40% faster Lure Speed for 1 hour + 10,000 Cash",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "100M",
+      "reward": "$2,500 + 2x Truffle Worm + 2x Weird Algae",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "200K",
+      "reward": "3x Truffle Worm + 3x Weird Algae",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "1BVisits",
+      "reward": "Expired — 1 billion visits milestone code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Brother",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "NewBeginnings",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "OGNOLIFE",
+      "reward": "Expired — reward not documented by the publisher",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "Scubaaaa",
+      "reward": "10x Coral Geodes",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "THEKRAKEN",
+      "reward": "Sunken ship bobber + C$2,500",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "ATLANTEANSTORM",
+      "reward": "2x Hangman",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "GOLDENTIDE",
+      "reward": "3x Instant Catchers",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "HeadStart",
+      "reward": "Cash + Instant Catchers",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "FRIENDXP",
+      "reward": "Expired — friend XP boost code",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DAILYSHOP",
+      "reward": "Daily Shop event bundle (expired )",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    },
+    {
+      "code": "DARKHEART",
+      "reward": "Darkheart event bundle (expired )",
+      "status": "expired",
+      "note": "",
+      "source": ""
+    }
+  ]
+}

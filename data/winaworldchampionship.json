@@ -1,0 +1,112 @@
+{
+  "game": "Win A World Championship",
+  "site": "https://winaworldchampionship.robloxwikihub.com",
+  "updated": "2026-09-19",
+  "codes": [
+    {
+      "code": "MEMBERS200K",
+      "reward": "7,500 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "active",
+      "note": "",
+      "source": "Roblox description, Beebom, Destructoid"
+    },
+    {
+      "code": "DAILY",
+      "reward": "10,000 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "active",
+      "note": "",
+      "source": "Roblox description, Beebom, Destructoid"
+    },
+    {
+      "code": "VISIT5M",
+      "reward": "10,000 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "active",
+      "note": "Pocket Tactics also reports one Cup Ticket; verify in-game before budgeting cup entries.",
+      "source": "Roblox description, Beebom, Destructoid, Pocket Tactics"
+    },
+    {
+      "code": "LIKES10K",
+      "reward": "10,000 Coins, 5 Team Rerolls, 5 Year Rerolls, and 1 Token",
+      "status": "active",
+      "note": "",
+      "source": "Roblox description, Beebom, Destructoid, Pocket Tactics"
+    },
+    {
+      "code": "CCU5K",
+      "reward": "10,000 Coins, 5 Team Rerolls, 5 Year Rerolls, and 1 Token",
+      "status": "active",
+      "note": "Pocket Tactics also reports one Cup Ticket; current Roblox description still lists the code.",
+      "source": "Roblox description, Beebom, Destructoid, Pocket Tactics"
+    },
+    {
+      "code": "INDEX",
+      "reward": "7,500 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "active",
+      "note": "",
+      "source": "Roblox description, Beebom, Destructoid"
+    },
+    {
+      "code": "LIKES5000",
+      "reward": "7,500 to 10,000 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "needs-check",
+      "note": "",
+      "source": "Beebom and Pocket Tactics list it active; Destructoid lists it expired"
+    },
+    {
+      "code": "VISIT1M",
+      "reward": "10,000 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "needs-check",
+      "note": "",
+      "source": "Beebom and Pocket Tactics list it active; Destructoid lists it expired"
+    },
+    {
+      "code": "MEMBERS100K",
+      "reward": "7,500 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "needs-check",
+      "note": "",
+      "source": "Beebom lists it active; Destructoid lists it expired"
+    },
+    {
+      "code": "LIKES1000",
+      "reward": "7,500 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "needs-check",
+      "note": "",
+      "source": "Beebom and Pocket Tactics list it active; older pages disagree"
+    },
+    {
+      "code": "DICTATOR",
+      "reward": "7,500 Coins, 5 Team Rerolls, and 5 Year Rerolls",
+      "status": "needs-check",
+      "note": "",
+      "source": "Beebom and Pocket Tactics list it active; some older pages disagree"
+    },
+    {
+      "code": "LIKES250",
+      "reward": "Free rewards",
+      "status": "expired",
+      "note": "",
+      "source": "Pro Game Guides, Destructoid"
+    },
+    {
+      "code": "RELEASE",
+      "reward": "Free rewards",
+      "status": "expired",
+      "note": "",
+      "source": "Pro Game Guides, Destructoid"
+    },
+    {
+      "code": "SOCIALS",
+      "reward": "Free rewards",
+      "status": "expired",
+      "note": "",
+      "source": "Pro Game Guides, Destructoid"
+    },
+    {
+      "code": "SORRY",
+      "reward": "Free rewards",
+      "status": "expired",
+      "note": "",
+      "source": "Pro Game Guides, Destructoid"
+    }
+  ]
+}

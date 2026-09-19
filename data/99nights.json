@@ -1,0 +1,35 @@
+{
+  "game": "99 Nights in the Forest",
+  "site": "https://99nights.robloxwikihub.com",
+  "updated": "2026-09-19",
+  "codes": [
+    {
+      "code": "FORESTWAKESUP26",
+      "reward": "15 Diamonds + 3 random Flames",
+      "status": "active",
+      "note": "",
+      "source": "Developer"
+    },
+    {
+      "code": "AFTERPARTY",
+      "reward": "15 Diamonds",
+      "status": "active",
+      "note": "",
+      "source": "Developer"
+    },
+    {
+      "code": "YAY FISHING",
+      "reward": "2 Diamonds (type in chat during fishing minigame)",
+      "status": "active",
+      "note": "Must be typed in global chat while in the fishing minigame with a fishing rod equipped",
+      "source": "Secret"
+    },
+    {
+      "code": "HAPPYHALLOWEEN",
+      "reward": "10 Candy (Halloween event)",
+      "status": "expired",
+      "note": "",
+      "source": "Developer"
+    }
+  ]
+}

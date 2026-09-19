@@ -1,0 +1,77 @@
+{
+  "game": "Create a Car",
+  "site": "https://createacar.robloxwikihub.com",
+  "updated": "2026-09-19",
+  "codes": [
+    {
+      "code": "CONVEYOR",
+      "reward": "Golden Elite Tuning Crate, Candy Supercar Parts Box, and Diamond Supercar Parts Box",
+      "status": "active",
+      "note": "SuperCheats lists this as the newest current code; Roblox Den and UrGameTips provide the crate rewards.",
+      "source": "Roblox Den, UrGameTips, Destructoid, SuperCheats"
+    },
+    {
+      "code": "GRIND",
+      "reward": "50,000 Cash",
+      "status": "active",
+      "note": "",
+      "source": "Roblox Den, UrGameTips, Destructoid, SuperCheats"
+    },
+    {
+      "code": "FIXES",
+      "reward": "50,000 Cash",
+      "status": "active",
+      "note": "",
+      "source": "Roblox Den, UrGameTips, Destructoid, SuperCheats"
+    },
+    {
+      "code": "PRESTIGE",
+      "reward": "Golden Turbo Crate, Diamond Mechanic's Crate, and Lava Street Starter Crate",
+      "status": "needs-check",
+      "note": "Roblox Den lists PRESTIGE active, but other current code pages do not all include it yet. Test in-game before planning around it.",
+      "source": "Roblox Den"
+    },
+    {
+      "code": "NEWMERGER",
+      "reward": "50,000 Cash",
+      "status": "needs-check",
+      "note": "Roblox Den lists NEWMERGER active; keep it separate from confirmed multi-source codes until verified in-game.",
+      "source": "Roblox Den"
+    },
+    {
+      "code": "MERGER",
+      "reward": "50,000 Cash",
+      "status": "needs-check",
+      "note": "Several sources still list MERGER active, but SuperCheats moved it to expired on .",
+      "source": "Roblox Den, UrGameTips, Destructoid; SuperCheats marks expired"
+    },
+    {
+      "code": "INDEX",
+      "reward": "1 Lava Garage Crate and 1 Golden Mechanic Crate",
+      "status": "needs-check",
+      "note": "",
+      "source": "Roblox Den, UrGameTips, Destructoid; SuperCheats marks expired"
+    },
+    {
+      "code": "DEALER",
+      "reward": "50,000 Cash",
+      "status": "needs-check",
+      "note": "",
+      "source": "Roblox Den, UrGameTips, Destructoid; SuperCheats marks expired"
+    },
+    {
+      "code": "UPDATE2",
+      "reward": "Lava Race Prep Box",
+      "status": "expired",
+      "note": "",
+      "source": "Roblox Den, UrGameTips, Destructoid, SuperCheats"
+    },
+    {
+      "code": "UPDATE1",
+      "reward": "50,000 Cash",
+      "status": "expired",
+      "note": "",
+      "source": "Roblox Den, UrGameTips, Destructoid, SuperCheats"
+    }
+  ]
+}

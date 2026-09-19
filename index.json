@@ -1,0 +1,177 @@
+{
+  "updated": "2026-09-19",
+  "games": [
+    {
+      "game": "99 Nights in the Forest",
+      "site": "https://99nights.robloxwikihub.com",
+      "file": "data/99nights.json",
+      "total": 4,
+      "active": 3,
+      "expired": 1,
+      "needsCheck": 0
+    },
+    {
+      "game": "Create a Car",
+      "site": "https://createacar.robloxwikihub.com",
+      "file": "data/createacar.json",
+      "total": 10,
+      "active": 3,
+      "expired": 2,
+      "needsCheck": 5
+    },
+    {
+      "game": "Win A World Championship",
+      "site": "https://winaworldchampionship.robloxwikihub.com",
+      "file": "data/winaworldchampionship.json",
+      "total": 15,
+      "active": 6,
+      "expired": 4,
+      "needsCheck": 5
+    },
+    {
+      "game": "Rivals",
+      "site": "https://rivals.robloxwikihub.com",
+      "file": "data/rivals.json",
+      "total": 12,
+      "active": 11,
+      "expired": 1,
+      "needsCheck": 0
+    },
+    {
+      "game": "Jujutsu Infinite",
+      "site": "https://jujutsuinfinite.robloxwikihub.com",
+      "file": "data/jujutsuinfinite.json",
+      "total": 24,
+      "active": 4,
+      "expired": 20,
+      "needsCheck": 0
+    },
+    {
+      "game": "Anime Vanguards",
+      "site": "https://animevanguards.robloxwikihub.com",
+      "file": "data/animevanguards.json",
+      "total": 13,
+      "active": 3,
+      "expired": 10,
+      "needsCheck": 0
+    },
+    {
+      "game": "Anime Defenders",
+      "site": "https://animedefenders.robloxwikihub.com",
+      "file": "data/animedefenders.json",
+      "total": 33,
+      "active": 16,
+      "expired": 17,
+      "needsCheck": 0
+    },
+    {
+      "game": "Pressure",
+      "site": "https://pressure.robloxwikihub.com",
+      "file": "data/pressure.json",
+      "total": 17,
+      "active": 6,
+      "expired": 11,
+      "needsCheck": 0
+    },
+    {
+      "game": "Fisch",
+      "site": "https://fisch.robloxwikihub.com",
+      "file": "data/fisch.json",
+      "total": 137,
+      "active": 3,
+      "expired": 134,
+      "needsCheck": 0
+    },
+    {
+      "game": "Fish It!",
+      "site": "https://fishit.robloxwikihub.com",
+      "file": "data/fishit.json",
+      "total": 27,
+      "active": 27,
+      "expired": 0,
+      "needsCheck": 0
+    },
+    {
+      "game": "Dress to Impress",
+      "site": "https://dti.robloxwikihub.com",
+      "file": "data/dti.json",
+      "total": 39,
+      "active": 35,
+      "expired": 4,
+      "needsCheck": 0
+    },
+    {
+      "game": "Sol's RNG",
+      "site": "https://solsrng.robloxwikihub.com",
+      "file": "data/solsrng.json",
+      "total": 13,
+      "active": 4,
+      "expired": 9,
+      "needsCheck": 0
+    },
+    {
+      "game": "Steal a Brainrot",
+      "site": "https://stealabrainrot.robloxwikihub.com",
+      "file": "data/stealabrainrot.json",
+      "total": 20,
+      "active": 1,
+      "expired": 19,
+      "needsCheck": 0
+    },
+    {
+      "game": "Blade Ball",
+      "site": "https://bladeball.robloxwikihub.com",
+      "file": "data/bladeball.json",
+      "total": 59,
+      "active": 16,
+      "expired": 43,
+      "needsCheck": 0
+    },
+    {
+      "game": "Type Soul",
+      "site": "https://typesoul.robloxwikihub.com",
+      "file": "data/typesoul.json",
+      "total": 66,
+      "active": 22,
+      "expired": 44,
+      "needsCheck": 0
+    },
+    {
+      "game": "Anime Dice",
+      "site": "https://animedice.robloxwikihub.com",
+      "file": "data/animedice.json",
+      "total": 17,
+      "active": 12,
+      "expired": 5,
+      "needsCheck": 0
+    },
+    {
+      "game": "Last Stop",
+      "site": "https://laststop.robloxwikihub.com",
+      "file": "data/laststop.json",
+      "total": 5,
+      "active": 5,
+      "expired": 0,
+      "needsCheck": 0
+    },
+    {
+      "game": "Anime Origins",
+      "site": "https://animeorigins.robloxwikihub.com",
+      "file": "data/animeorigins.json",
+      "total": 6,
+      "active": 3,
+      "expired": 3,
+      "needsCheck": 0
+    },
+    {
+      "game": "Jujutsu Shenanigans",
+      "site": "https://jujutsushenanigans.robloxwikihub.com",
+      "file": "data/jujutsushenanigans.json",
+      "total": 10,
+      "active": 1,
+      "expired": 9,
+      "needsCheck": 0
+    }
+  ],
+  "totalCodes": 527
+}
